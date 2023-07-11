@@ -2,7 +2,7 @@
 - 👀 I’m interested in books and movies.
 - 🌱 I’m currently learning HTML,CSS, and Javascript.
 - 💞️ I’m looking to collaborate on anything that will teach me somethin new.
-- 📫 How to reach me ....
+- 📫 How to reach me pottsjames@gmail.com
 
 <!---
 J-Potts13/J-Potts13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
